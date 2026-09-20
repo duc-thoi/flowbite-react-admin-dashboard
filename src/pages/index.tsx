@@ -239,7 +239,7 @@ const LatestCustomers: FC = function () {
     <div className="mb-4 h-full rounded-lg bg-white p-4 shadow dark:bg-gray-800 sm:p-6">
       <div className="mb-4 flex items-center justify-between">
         <h3 className="text-xl font-bold leading-none text-gray-900 dark:text-white">
-          Latest Customers
+          Latest Customers (Hexby test)
         </h3>
         <a
           href="#"
